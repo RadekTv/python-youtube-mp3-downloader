@@ -1,6 +1,4 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-![SIZE](https://img.shields.io/github/languages/code-size/radektv/python-youtube-mp3-downloader?style=flat-square)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SIZE](https://img.shields.io/github/languages/code-size/radektv/python-youtube-mp3-downloader?style=flat-square)
 # Python YouTube MP3 Downloader
 
 It is a program created to download videos from YouTube as mp3 files.
